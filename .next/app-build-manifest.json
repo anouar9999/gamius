@@ -1,0 +1,66 @@
+{
+  "pages": {
+    "/(DashboardLayout)/loading": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/loading.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/loading": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/loading.js"
+    ],
+    "/(DashboardLayout)/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/page.js"
+    ],
+    "/(DashboardLayout)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(DashboardLayout)/layout.css",
+      "static/chunks/app/(DashboardLayout)/layout.js"
+    ],
+    "/(DashboardLayout)/dashboards/ecommerce/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/dashboards/ecommerce/page.js"
+    ],
+    "/(DashboardLayout)/dashboards/new-tournament/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/dashboards/new-tournament/page.js"
+    ],
+    "/(DashboardLayout)/dashboards/profile/[Player-name]/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/dashboards/profile/[Player-name]/layout.js"
+    ],
+    "/(DashboardLayout)/dashboards/profile/[Player-name]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/dashboards/profile/[Player-name]/page.js"
+    ],
+    "/(DashboardLayout)/dashboards/match/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/dashboards/match/[id]/page.js"
+    ],
+    "/(DashboardLayout)/apps/blog/post/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/apps/blog/post/page.js"
+    ],
+    "/(DashboardLayout)/dashboards/tournament/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/dashboards/tournament/[id]/page.js"
+    ]
+  }
+}
